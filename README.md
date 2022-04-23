@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou Leonardo Ralph</h1>
 <h3 align="center">Um desenvolvedor júnior muito dedicado</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leoralph&label=Profile%20views&color=0e75b6&style=flat" alt="leoralph" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leoralph&label=Visualizações%20no%20Perfil&color=0e75b6&style=flat" alt="leoralph" /> </p>
 
 - 🔭 Atualmente estou trabalhando em [api-php](https://github.com/leoralph/api-php)
 
@@ -15,7 +15,7 @@
 
 - 📫 Contato através do email **profissional@leonardoralph.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/leonardo-ralph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-ralph" height="30" width="40" /></a>
 </p>

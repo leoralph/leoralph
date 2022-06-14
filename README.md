@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou Leonardo Ralph</h1>
-<h3 align="center">Um desenvolvedor júnior muito dedicado</h3>
+<h3 align="center">Um desenvolvedor muito dedicado</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leoralph&label=Visualizações%20no%20Perfil&color=0e75b6&style=flat" alt="leoralph" /> </p>
 

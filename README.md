@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leoralph&label=Visualizações%20no%20Perfil&color=0e75b6&style=flat" alt="leoralph" /> </p>
 
-- 🔭 Atualmente estou trabalhando em [php-orm](https://github.com/leoralph/php-orm)
-
 - 🌱 Atualmente estou focado em aprender **PHP, React, Node**
 
 - 👨‍💻 Meus projetos estão disponíveis em [https://github.com/leoralph?tab=repositories](https://github.com/leoralph?tab=repositories)

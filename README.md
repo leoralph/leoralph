@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leoralph&label=Visualizações%20no%20Perfil&color=0e75b6&style=flat" alt="leoralph" /> </p>
 
-- 🌱 Atualmente estou focado em aprender **PHP, React, Node**
-
 - 👨‍💻 Meus projetos estão disponíveis em [https://github.com/leoralph?tab=repositories](https://github.com/leoralph?tab=repositories)
-
-- 🎓 Estou no segundo período de **análise e desenvolvimento de sistemas**
 
 - 🗣️ Possuo nível avançado de inglês
 
-- 📫 Contato através do email **profissional@leonardoralph.com**
+- 📫 Contato através do email **theleoralph@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">

@@ -6,7 +6,7 @@
 
 - 🗣️ Possuo nível avançado de inglês
 
-- 📫 Contato através do email **theleoralph@gmail.com**
+- 📫 Contato através do email **contato@leoralph.dev**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
